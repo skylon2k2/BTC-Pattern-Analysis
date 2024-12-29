@@ -5,7 +5,7 @@ This is not financial advice.
 This is a study which solely aims to display any statistics or insights that arise from the dataset(s).
 There is a possibility for results that portray the potential for great profits or losses.
 However, these observations are taken from past data, and may therefore not accurately depict future trends.
-Hence, any contributors to this study are not to be held liable for any losses (or profits) of others that occur as a result of this study.
+Hence, any contributors to this study are not to be held liable for any losses (or profits) that occur as a result of utilizing these findings.
 Readers are encouraged to find other sources aside from this study to support their understading of the subject before making any decisions with regards to trading.
 
 ## Purpose
