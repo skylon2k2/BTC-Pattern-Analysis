@@ -8,6 +8,8 @@ However, these observations are taken from past data, and may therefore not accu
 Hence, any contributors to this study are not to be held liable for any losses (or profits) that occur as a result of utilizing these findings.
 Readers are encouraged to find other sources aside from this study to support their understading of the subject before making any decisions with regards to trading.
 
+Please view the Apache-2.0 license to understand how you can use this project.
+
 ## Purpose
 There are various chart patterns that are used by traders to maximize profits from the stock market.
 We would like to determine if these chart patterns are viable when trading cryptocurrency, specifically Bitcoin.
